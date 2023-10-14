@@ -1,2 +1,2 @@
 # kanban-board-react
-Created with CodeSandbox
+This is UI for a Kanban board using React.js
